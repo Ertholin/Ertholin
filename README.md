@@ -1,4 +1,4 @@
-<a href="http://dmilinux.uqtr.ca/mi334/portfolio/index.html" target="blank"><img align="center" src="https://github.com/Ertholin/Ertholin/blob/main/Bergtocht_van_Peio_Paese_naar_Lago_Covel_(1%2C839_m)_in_het_Nationaal_park_Stelvio_(Itali%C3%AB)._Lago_Covel_(1%2C839_m).jpg" height="100" /></a>
+<a href="http://dmilinux.uqtr.ca/mi334/portfolio/index.html" target="blank"><img align="center" src="https://github.com/Ertholin/Ertholin/blob/main/Bergtocht_van_Peio_Paese_naar_Lago_Covel_(1%2C839_m)_in_het_Nationaal_park_Stelvio_(Itali%C3%AB)._Lago_Covel_(1%2C839_m).jpg" height="100" width="400"/></a>
 
 ### Hi there 👋
 
