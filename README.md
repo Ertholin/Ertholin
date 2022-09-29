@@ -1,4 +1,4 @@
-<a href="http://dmilinux.uqtr.ca/mi334/portfolio/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/goabstract/Awesome-Design-Tools/master/Media/Awesome%20Design%20Plugins.png"/></a>
+<a href="https://ertholin.github.io/ertho-portfolio.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/goabstract/Awesome-Design-Tools/master/Media/Awesome%20Design%20Plugins.png"/></a>
 
 ### Hi there 👋
 
